@@ -1,0 +1,5 @@
+C:\Users\Jeroen\Documents\GitHub\HuanJeroenTest\cinema-systemv3\cinema-systemv3\cinema-systemv3\bin\cinema-systemv3.dll
+C:\Users\Jeroen\Documents\GitHub\HuanJeroenTest\cinema-systemv3\cinema-systemv3\cinema-systemv3\bin\cinema-systemv3.pdb
+C:\Users\Jeroen\Documents\GitHub\HuanJeroenTest\cinema-systemv3\cinema-systemv3\cinema-systemv3\obj\Debug\cinema-systemv3.csprojResolveAssemblyReference.cache
+C:\Users\Jeroen\Documents\GitHub\HuanJeroenTest\cinema-systemv3\cinema-systemv3\cinema-systemv3\obj\Debug\cinema-systemv3.dll
+C:\Users\Jeroen\Documents\GitHub\HuanJeroenTest\cinema-systemv3\cinema-systemv3\cinema-systemv3\obj\Debug\cinema-systemv3.pdb
