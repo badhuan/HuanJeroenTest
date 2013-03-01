@@ -1,0 +1,5 @@
+C:\Users\Huan\Documents\GitHub\cinema-systemv2\cinema-systemv2\bin\cinema-systemv2.dll
+C:\Users\Huan\Documents\GitHub\cinema-systemv2\cinema-systemv2\bin\cinema-systemv2.pdb
+C:\Users\Huan\Documents\GitHub\cinema-systemv2\cinema-systemv2\obj\Debug\cinema-systemv2.dll
+C:\Users\Huan\Documents\GitHub\cinema-systemv2\cinema-systemv2\obj\Debug\cinema-systemv2.pdb
+C:\Users\Huan\Documents\GitHub\cinema-systemv2\cinema-systemv2\obj\Debug\cinema-systemv2.csprojResolveAssemblyReference.cache

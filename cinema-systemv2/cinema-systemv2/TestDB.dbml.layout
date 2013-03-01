@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.75, 11.375" name="TestDB">
+  <DataContextMoniker Name="/TestDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="76628dbb-e64c-465b-b6e7-da048cead943" absoluteBounds="6.75, 6.875, 2, 1.1939925130208327">
+      <DataClassMoniker Name="/TestDBDataContext/Actor" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7c27604e-ff1c-47b7-987e-e3783f2e8207" absoluteBounds="6.765, 7.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="921de321-c0b7-47bb-812e-1d06861efc8d" absoluteBounds="9.5, 6.5, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/TestDBDataContext/Show" />
+      <nestedChildShapes>
+        <elementListCompartment Id="56f9f64c-7e95-46df-bbf9-183a47b5ff75" absoluteBounds="9.515, 6.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="550226aa-a873-4c47-8201-868793b75ce4" absoluteBounds="3.5, 6.75, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/TestDBDataContext/Coupon" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d0dc0b67-7b44-4bc3-8799-e7469227233c" absoluteBounds="3.515, 7.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="74f095b3-c40e-4133-acd1-d207e52a229c" absoluteBounds="0.75, 7.25, 2, 2.9247054036458318">
+      <DataClassMoniker Name="/TestDBDataContext/Customer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4088a432-cc2f-492d-8dce-8485767ca5c8" absoluteBounds="0.765, 7.71, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b26e1578-7539-4316-bd0b-9e19706a95f3" absoluteBounds="0.75, 1, 2, 1.5785953776041668">
+      <DataClassMoniker Name="/TestDBDataContext/Discount" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c0480873-a4f0-4a0f-bf10-140db539b66e" absoluteBounds="0.765, 1.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b768a960-8091-470e-82b0-b9bc8a9a83a1" absoluteBounds="6.75, 0.75, 2, 1.5785953776041668">
+      <DataClassMoniker Name="/TestDBDataContext/LookWiser" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c4e72a62-7195-413c-8b0c-09270277e310" absoluteBounds="6.765, 1.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0d24401e-9673-4ac3-8666-b8e55eeb2af0" absoluteBounds="6.75, 3.25, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/TestDBDataContext/Movie" />
+      <nestedChildShapes>
+        <elementListCompartment Id="39795c43-900e-488d-ab61-7648aa0d44d3" absoluteBounds="6.765, 3.71, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7bf2832e-d1d7-4427-a688-8d71b29c9b5e" absoluteBounds="9.5, 3.75, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/TestDBDataContext/Movie_Actor" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b8ee0353-bb3b-4bce-8faa-0e09ce4f9893" absoluteBounds="9.515, 4.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0cbf42f6-5356-4c17-b4b6-9d36d689e895" absoluteBounds="9.5, 0.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/TestDBDataContext/Movie_Lookwiser" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cdaed4fa-1b65-4602-9576-28c22aab34af" absoluteBounds="9.515, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="965acba2-6917-4ef0-83fd-e84d4bc8b015" absoluteBounds="0.75, 4, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/TestDBDataContext/Order" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3fa050af-b149-4981-8442-584e196a26c1" absoluteBounds="0.765, 4.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f543e676-ddde-4a40-bb06-7a8fa2e35068" absoluteBounds="3.5, 4, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/TestDBDataContext/Reservation" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e1d75591-1307-467d-b90e-f5b9740b0d89" absoluteBounds="3.515, 4.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="be4017b2-1a6b-4e13-b1f9-c2df25fc7a7a" absoluteBounds="6.75, 9.75, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/TestDBDataContext/Room" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a6ee833b-a062-490c-bd21-cc5d077f7742" absoluteBounds="6.765, 10.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="101d2301-c93d-4e00-b0c0-9616c5a994eb" absoluteBounds="3.5, 0.875, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/TestDBDataContext/Ticket" />
+      <nestedChildShapes>
+        <elementListCompartment Id="211c6087-d6d1-4a2e-955a-eec687109615" absoluteBounds="3.515, 1.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 7.98159912109375); (3.5 : 7.98159912109375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TestDBDataContext/Customer/Customer_Coupon" />
+      <nodes>
+        <classShapeMoniker Id="74f095b3-c40e-4133-acd1-d207e52a229c" />
+        <classShapeMoniker Id="550226aa-a873-4c47-8201-868793b75ce4" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.75 : 5.59780110677083); (9.125 : 5.97280110677083); (9.125 : 7.48159912109375); (9.5 : 7.48159912109375)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TestDBDataContext/Movie/Movie_Show" />
+      <nodes>
+        <classShapeMoniker Id="0d24401e-9673-4ac3-8666-b8e55eeb2af0" />
+        <classShapeMoniker Id="921de321-c0b7-47bb-812e-1d06861efc8d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.75 : 6.90714495227364); (9.06607443490112 : 6.59107051737252 : JumpStart); (9.18392556509888 : 6.47321938717476 : JumpEnd); (9.28125 : 6.37589495227364); (9.28125 : 4.44314697265625); (9.5 : 4.44314697265625)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TestDBDataContext/Actor/Actor_Movie_Actor" />
+      <nodes>
+        <classShapeMoniker Id="76628dbb-e64c-465b-b6e7-da048cead943" />
+        <classShapeMoniker Id="7bf2832e-d1d7-4427-a688-8d71b29c9b5e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.75 : 4.03407348632813); (9.5 : 4.03407348632813)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TestDBDataContext/Movie/Movie_Movie_Actor" />
+      <nodes>
+        <classShapeMoniker Id="0d24401e-9673-4ac3-8666-b8e55eeb2af0" />
+        <classShapeMoniker Id="7bf2832e-d1d7-4427-a688-8d71b29c9b5e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.75 : 1.44314697265625); (9.5 : 1.44314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TestDBDataContext/LookWiser/LookWiser_Movie_Lookwiser" />
+      <nodes>
+        <classShapeMoniker Id="b768a960-8091-470e-82b0-b9bc8a9a83a1" />
+        <classShapeMoniker Id="0cbf42f6-5356-4c17-b4b6-9d36d689e895" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.75 : 3.25); (9.125 : 2.875); (9.125 : 1.82097245898437); (9.5 : 1.82097245898437)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TestDBDataContext/Movie/Movie_Movie_Lookwiser" />
+      <nodes>
+        <classShapeMoniker Id="0d24401e-9673-4ac3-8666-b8e55eeb2af0" />
+        <classShapeMoniker Id="0cbf42f6-5356-4c17-b4b6-9d36d689e895" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 5.57859537760417); (3.125 : 5.95359537760417); (3.125 : 7.33454756054688); (3.5 : 7.33454756054688)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TestDBDataContext/Order/Order_Coupon" />
+      <nodes>
+        <classShapeMoniker Id="965acba2-6917-4ef0-83fd-e84d4bc8b015" />
+        <classShapeMoniker Id="550226aa-a873-4c47-8201-868793b75ce4" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 7.31307592307692); (3.06607443490112 : 6.9970014881758 : JumpStart); (3.18392556509888 : 6.87915035797804 : JumpEnd); (3.3125 : 6.75057592307692); (3.3125 : 4.78929768880208); (3.5 : 4.78929768880208)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TestDBDataContext/Customer/Customer_Reservation" />
+      <nodes>
+        <classShapeMoniker Id="74f095b3-c40e-4133-acd1-d207e52a229c" />
+        <classShapeMoniker Id="f543e676-ddde-4a40-bb06-7a8fa2e35068" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.33214884440104); (3.5 : 4.33214884440104)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TestDBDataContext/Order/Order_Reservation" />
+      <nodes>
+        <classShapeMoniker Id="965acba2-6917-4ef0-83fd-e84d4bc8b015" />
+        <classShapeMoniker Id="f543e676-ddde-4a40-bb06-7a8fa2e35068" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.75 : 10.4431469726562); (10.5 : 10.4431469726562); (10.5 : 8.4631982421875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TestDBDataContext/Room/Room_Show" />
+      <nodes>
+        <classShapeMoniker Id="be4017b2-1a6b-4e13-b1f9-c2df25fc7a7a" />
+        <classShapeMoniker Id="921de321-c0b7-47bb-812e-1d06861efc8d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 1.78929768880208); (3.04166666666667 : 1.78929768880208 : JumpStart); (3.20833333333333 : 1.78929768880208 : JumpEnd); (3.5 : 1.78929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TestDBDataContext/Discount/Discount_Ticket" />
+      <nodes>
+        <classShapeMoniker Id="b26e1578-7539-4316-bd0b-9e19706a95f3" />
+        <classShapeMoniker Id="101d2301-c93d-4e00-b0c0-9616c5a994eb" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.00121330413662); (3.125 : 3.62621330413662); (3.125 : 1.30089684440104); (3.5 : 1.30089684440104)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TestDBDataContext/Order/Order_Ticket" />
+      <nodes>
+        <classShapeMoniker Id="965acba2-6917-4ef0-83fd-e84d4bc8b015" />
+        <classShapeMoniker Id="101d2301-c93d-4e00-b0c0-9616c5a994eb" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
