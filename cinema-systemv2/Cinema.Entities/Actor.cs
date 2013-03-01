@@ -6,16 +6,16 @@ namespace Cinema.Entities
 {
     public class Actor
     {
-
+        DatabaseDataContext db = new DatabaseDataContext();
+   
         public List<Hashtable> get(int ActorID)
         {
-            DatabaseDataContext db = new DatabaseDataContext();
-            var qry = from a in db.Actors
-                      where a.ActorID == ActorID
-                      select a;
+               var query = from actor in db.Actors
+                        where actor.ActorID == ActorID
+                        select actor;
 
             List<Hashtable> lijst = new List<Hashtable>();
-            foreach (var item in qry)
+            foreach (var item in query)
             {
 
                 Hashtable data = new Hashtable();
@@ -28,11 +28,14 @@ namespace Cinema.Entities
             return lijst;
         }
 
-        public void insert()
+        public void insert(Actor Name)
         {
+            db.Actors.InsertOnSubmit(Name);
         }
+
         public void update()
         {
+
         }
         public void delete()
         {
